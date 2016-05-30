@@ -1,9 +1,0 @@
-frontend
-    1.每个页面模块都是单独引入到layout中的.
-        1.1 导航栏专用了一个组件来输出.
-    所有的功能模块我们希望你在 modules 里面新建一个模块开发。
-    所以的业务逻辑我们希望你在 common\services 里新建一个 services 开发。
-    基础的类可以放在 common\components 里面。
-    其他的类可以放在 common\helpers 里面调用。
-
-    widget 输出指定的内容到视图.
