@@ -5,3 +5,5 @@ frontend
     所以的业务逻辑我们希望你在 common\services 里新建一个 services 开发。
     基础的类可以放在 common\components 里面。
     其他的类可以放在 common\helpers 里面调用。
+
+    widget 输出指定的内容到视图.
